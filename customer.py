@@ -7,7 +7,7 @@ class Customer:
         pass
 
     def append_data(self):
-        csv_file = open("FakeNameSet20.csv", "r")
+        csv_file = open("customers.csv", "r")
         json_file = open("customers.json", "w")
         fieldnames = ("Number", "Gender", "NameSet", "GivenName", "Surname", "StreetAddress", "ZipCode", "City", "EmailAddress","Username", "TelephoneNumber")
         reader = csv.DictReader(csv_file, fieldnames)
@@ -16,7 +16,7 @@ class Customer:
         json_file.close()
         csv_file.close()
 
-    def add_customer(self, gender, name_set, given_name, surname, street_address, zip_code, city, email_address, username, telephone_number, number=0,):
+    def add_customer(self, gender, given_name, surname, street_address, zip_code, city, email_address, username, telephone_number, number=0,name_set="Dutch"):
         with open("customer.json", 'r') as json_file:
             customer_data = json.load(json_file)
         customer_dictionary = {
@@ -39,12 +39,11 @@ class Customer:
         outfile.write(json.dumps(new_data, indent=4, sort_keys=True))
         outfile.close()
 
-
-    def search_customer(self):
+    def search_customer(self, customer_search):
         with open('customers.json', 'r') as json_file:
             data = json.load(json_file)
         s1 = ''
-        user_input = input("Search for customer: ")
+        user_input = customer_search
         for d in data:
             data_string = str(d)
             lowercased_object = data_string.lower()
@@ -58,8 +57,3 @@ class Customer:
                     else:
                         s1 = s1 + s
         print(s1)
-
-
-x = Customer()
-x.append_data()
-x.search_customer()

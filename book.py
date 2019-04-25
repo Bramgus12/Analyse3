@@ -4,10 +4,11 @@ import json
 class Book:
 
     def __init__(self):
-        with open('books.json', 'r') as json_file:
-            self.data = json.load(json_file)
+        pass
 
-    def appendbook(self, author, title, available, country, image_link, link, number_of_pages, language, year):
+    def appendbook(self, author, title, country, image_link, link, number_of_pages, language, year):
+        with open('books.json', 'r') as json_file:
+            data = json.load(json_file)
         dictionary = {
             "author": author,
             "available": True,
@@ -19,19 +20,19 @@ class Book:
             "title": title,
             "year": year
         }
-        new_data = self.data
+        new_data = data
         new_data.append(dictionary)
-
-        outfile = open('newBooks.json', "w")
+        json_file.close()
+        outfile = open('books.json', "w")
         outfile.write("")
         outfile.write(json.dumps(new_data, indent=4, sort_keys=True))
         outfile.close()
     
-    def searchbook(self):
+    def searchbook(self, book):
         with open('books.json', 'r') as json_file:
             data = json.load(json_file)
         s1 = ''
-        Userinput = input("Search for a book: ")
+        Userinput = book
         for d in data:
             data_string = str(d)
             lowercased_object = data_string.lower()
@@ -45,7 +46,3 @@ class Book:
                     else:
                         s1 = s1 + s
         print(s1)
-
-
-x = Book()
-x.searchbook()

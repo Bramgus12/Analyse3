@@ -7,9 +7,10 @@ class Book:
         with open('books.json', 'r') as json_file:
             self.data = json.load(json_file)
 
-    def appendbook(self, author, title, country, image_link, link, number_of_pages, language, year):
+    def appendbook(self, author, title, available, country, image_link, link, number_of_pages, language, year):
         dictionary = {
             "author": author,
+            "available": True,
             "country": country,
             "imageLink": image_link,
             "language": language,
@@ -38,13 +39,13 @@ class Book:
             splitted_input = lowercased_input.split()
             for values in splitted_input:
                 if values in lowercased_object:
-                    s = d["author"] + ", " + d["country"] + ", " + d["imageLink"] + ", " + d["language"] + ", " + d["link"] + ", " + str(d["pages"]) + ", " + d["title"] + " and " + str(d["year"]) + "\n" + "----------------------------------------------------------------------------" + "\n"
+                    s = d["author"] + ", " + str(d["available"]) + ", " + d["country"] + ", " + d["imageLink"] + ", " + d["language"] + ", " + d["link"] + ", " + str(d["pages"]) + ", " + d["title"] + " and " + str(d["year"]) + "\n" + "----------------------------------------------------------------------------" + "\n"
                     if s in s1:
-                        print("")
+                        pass
                     else:
                         s1 = s1 + s
         print(s1)
 
 
 x = Book()
-x.searchBook()
+x.searchbook()

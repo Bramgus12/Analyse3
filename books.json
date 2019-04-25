@@ -1,6 +1,7 @@
 [
   {
     "author": "Chinua Achebe",
+    "available": true,
     "country": "Nigeria",
     "imageLink": "images/things-fall-apart.jpg",
     "language": "English",
@@ -11,6 +12,7 @@
   },
   {
     "author": "Hans Christian Andersen",
+    "available": true,
     "country": "Denmark",
     "imageLink": "images/fairy-tales.jpg",
     "language": "Danish",
@@ -21,6 +23,7 @@
   },
   {
     "author": "Dante Alighieri",
+    "available": true,
     "country": "Italy",
     "imageLink": "images/the-divine-comedy.jpg",
     "language": "Italian",
@@ -31,6 +34,7 @@
   },
   {
     "author": "Unknown",
+    "available": true,
     "country": "Sumer and Akkadian Empire",
     "imageLink": "images/the-epic-of-gilgamesh.jpg",
     "language": "Akkadian",
@@ -41,6 +45,7 @@
   },
   {
     "author": "Unknown",
+    "available": true,
     "country": "Achaemenid Empire",
     "imageLink": "images/the-book-of-job.jpg",
     "language": "Hebrew",
@@ -51,6 +56,7 @@
   },
   {
     "author": "Unknown",
+    "available": true,
     "country": "India/Iran/Iraq/Egypt/Tajikistan",
     "imageLink": "images/one-thousand-and-one-nights.jpg",
     "language": "Arabic",
@@ -61,6 +67,7 @@
   },
   {
     "author": "Unknown",
+    "available": true,
     "country": "Iceland",
     "imageLink": "images/njals-saga.jpg",
     "language": "Old Norse",
@@ -71,6 +78,7 @@
   },
   {
     "author": "Jane Austen",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/pride-and-prejudice.jpg",
     "language": "English",
@@ -81,6 +89,7 @@
   },
   {
     "author": "Honor\u00e9 de Balzac",
+    "available": true,
     "country": "France",
     "imageLink": "images/le-pere-goriot.jpg",
     "language": "French",
@@ -91,6 +100,7 @@
   },
   {
     "author": "Samuel Beckett",
+    "available": true,
     "country": "Republic of Ireland",
     "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
     "language": "French, English",
@@ -101,6 +111,7 @@
   },
   {
     "author": "Giovanni Boccaccio",
+    "available": true,
     "country": "Italy",
     "imageLink": "images/the-decameron.jpg",
     "language": "Italian",
@@ -111,6 +122,7 @@
   },
   {
     "author": "Jorge Luis Borges",
+    "available": true,
     "country": "Argentina",
     "imageLink": "images/ficciones.jpg",
     "language": "Spanish",
@@ -121,6 +133,7 @@
   },
   {
     "author": "Emily Bront\u00eb",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/wuthering-heights.jpg",
     "language": "English",
@@ -131,6 +144,7 @@
   },
   {
     "author": "Albert Camus",
+    "available": true,
     "country": "Algeria, French Empire",
     "imageLink": "images/l-etranger.jpg",
     "language": "French",
@@ -141,6 +155,7 @@
   },
   {
     "author": "Paul Celan",
+    "available": true,
     "country": "Romania, France",
     "imageLink": "images/poems-paul-celan.jpg",
     "language": "German",
@@ -151,6 +166,7 @@
   },
   {
     "author": "Louis-Ferdinand C\u00e9line",
+    "available": true,
     "country": "France",
     "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
     "language": "French",
@@ -161,6 +177,7 @@
   },
   {
     "author": "Miguel de Cervantes",
+    "available": true,
     "country": "Spain",
     "imageLink": "images/don-quijote-de-la-mancha.jpg",
     "language": "Spanish",
@@ -171,6 +188,7 @@
   },
   {
     "author": "Geoffrey Chaucer",
+    "available": true,
     "country": "England",
     "imageLink": "images/the-canterbury-tales.jpg",
     "language": "English",
@@ -181,6 +199,7 @@
   },
   {
     "author": "Anton Chekhov",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/stories-of-anton-chekhov.jpg",
     "language": "Russian",
@@ -191,6 +210,7 @@
   },
   {
     "author": "Joseph Conrad",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/nostromo.jpg",
     "language": "English",
@@ -201,6 +221,7 @@
   },
   {
     "author": "Charles Dickens",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/great-expectations.jpg",
     "language": "English",
@@ -211,6 +232,7 @@
   },
   {
     "author": "Denis Diderot",
+    "available": true,
     "country": "France",
     "imageLink": "images/jacques-the-fatalist.jpg",
     "language": "French",
@@ -221,6 +243,7 @@
   },
   {
     "author": "Alfred D\u00f6blin",
+    "available": true,
     "country": "Germany",
     "imageLink": "images/berlin-alexanderplatz.jpg",
     "language": "German",
@@ -231,6 +254,7 @@
   },
   {
     "author": "Fyodor Dostoevsky",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/crime-and-punishment.jpg",
     "language": "Russian",
@@ -241,6 +265,7 @@
   },
   {
     "author": "Fyodor Dostoevsky",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/the-idiot.jpg",
     "language": "Russian",
@@ -251,6 +276,7 @@
   },
   {
     "author": "Fyodor Dostoevsky",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/the-possessed.jpg",
     "language": "Russian",
@@ -261,6 +287,7 @@
   },
   {
     "author": "Fyodor Dostoevsky",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/the-brothers-karamazov.jpg",
     "language": "Russian",
@@ -271,6 +298,7 @@
   },
   {
     "author": "George Eliot",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/middlemarch.jpg",
     "language": "English",
@@ -281,6 +309,7 @@
   },
   {
     "author": "Ralph Ellison",
+    "available": true,
     "country": "United States",
     "imageLink": "images/invisible-man.jpg",
     "language": "English",
@@ -291,6 +320,7 @@
   },
   {
     "author": "Euripides",
+    "available": true,
     "country": "Greece",
     "imageLink": "images/medea.jpg",
     "language": "Greek",
@@ -301,6 +331,7 @@
   },
   {
     "author": "William Faulkner",
+    "available": true,
     "country": "United States",
     "imageLink": "images/absalom-absalom.jpg",
     "language": "English",
@@ -311,6 +342,7 @@
   },
   {
     "author": "William Faulkner",
+    "available": true,
     "country": "United States",
     "imageLink": "images/the-sound-and-the-fury.jpg",
     "language": "English",
@@ -321,6 +353,7 @@
   },
   {
     "author": "Gustave Flaubert",
+    "available": true,
     "country": "France",
     "imageLink": "images/madame-bovary.jpg",
     "language": "French",
@@ -331,6 +364,7 @@
   },
   {
     "author": "Gustave Flaubert",
+    "available": true,
     "country": "France",
     "imageLink": "images/l-education-sentimentale.jpg",
     "language": "French",
@@ -341,6 +375,7 @@
   },
   {
     "author": "Federico Garc\u00eda Lorca",
+    "available": true,
     "country": "Spain",
     "imageLink": "images/gypsy-ballads.jpg",
     "language": "Spanish",
@@ -351,6 +386,7 @@
   },
   {
     "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "available": true,
     "country": "Colombia",
     "imageLink": "images/one-hundred-years-of-solitude.jpg",
     "language": "Spanish",
@@ -361,6 +397,7 @@
   },
   {
     "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "available": true,
     "country": "Colombia",
     "imageLink": "images/love-in-the-time-of-cholera.jpg",
     "language": "Spanish",
@@ -371,6 +408,7 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "available": true,
     "country": "Saxe-Weimar",
     "imageLink": "images/faust.jpg",
     "language": "German",
@@ -381,6 +419,7 @@
   },
   {
     "author": "Nikolai Gogol",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/dead-souls.jpg",
     "language": "Russian",
@@ -391,6 +430,7 @@
   },
   {
     "author": "G\u00fcnter Grass",
+    "available": true,
     "country": "Germany",
     "imageLink": "images/the-tin-drum.jpg",
     "language": "German",
@@ -401,6 +441,7 @@
   },
   {
     "author": "Jo\u00e3o Guimar\u00e3es Rosa",
+    "available": true,
     "country": "Brazil",
     "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
     "language": "Portuguese",
@@ -411,6 +452,7 @@
   },
   {
     "author": "Knut Hamsun",
+    "available": true,
     "country": "Norway",
     "imageLink": "images/hunger.jpg",
     "language": "Norwegian",
@@ -421,6 +463,7 @@
   },
   {
     "author": "Ernest Hemingway",
+    "available": true,
     "country": "United States",
     "imageLink": "images/the-old-man-and-the-sea.jpg",
     "language": "English",
@@ -431,6 +474,7 @@
   },
   {
     "author": "Homer",
+    "available": true,
     "country": "Greece",
     "imageLink": "images/the-iliad-of-homer.jpg",
     "language": "Greek",
@@ -441,6 +485,7 @@
   },
   {
     "author": "Homer",
+    "available": true,
     "country": "Greece",
     "imageLink": "images/the-odyssey-of-homer.jpg",
     "language": "Greek",
@@ -451,6 +496,7 @@
   },
   {
     "author": "Henrik Ibsen",
+    "available": true,
     "country": "Norway",
     "imageLink": "images/a-Dolls-house.jpg",
     "language": "Norwegian",
@@ -461,6 +507,7 @@
   },
   {
     "author": "James Joyce",
+    "available": true,
     "country": "Irish Free State",
     "imageLink": "images/ulysses.jpg",
     "language": "English",
@@ -471,6 +518,7 @@
   },
   {
     "author": "Franz Kafka",
+    "available": true,
     "country": "Czechoslovakia",
     "imageLink": "images/stories-of-franz-kafka.jpg",
     "language": "German",
@@ -481,6 +529,7 @@
   },
   {
     "author": "Franz Kafka",
+    "available": true,
     "country": "Czechoslovakia",
     "imageLink": "images/the-trial.jpg",
     "language": "German",
@@ -491,6 +540,7 @@
   },
   {
     "author": "Franz Kafka",
+    "available": true,
     "country": "Czechoslovakia",
     "imageLink": "images/the-castle.jpg",
     "language": "German",
@@ -501,6 +551,7 @@
   },
   {
     "author": "K\u0101lid\u0101sa",
+    "available": true,
     "country": "India",
     "imageLink": "images/the-recognition-of-shakuntala.jpg",
     "language": "Sanskrit",
@@ -511,6 +562,7 @@
   },
   {
     "author": "Yasunari Kawabata",
+    "available": true,
     "country": "Japan",
     "imageLink": "images/the-sound-of-the-mountain.jpg",
     "language": "Japanese",
@@ -521,6 +573,7 @@
   },
   {
     "author": "Nikos Kazantzakis",
+    "available": true,
     "country": "Greece",
     "imageLink": "images/zorba-the-greek.jpg",
     "language": "Greek",
@@ -531,6 +584,7 @@
   },
   {
     "author": "D. H. Lawrence",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/sons-and-lovers.jpg",
     "language": "English",
@@ -541,6 +595,7 @@
   },
   {
     "author": "Halld\u00f3r Laxness",
+    "available": true,
     "country": "Iceland",
     "imageLink": "images/independent-people.jpg",
     "language": "Icelandic",
@@ -551,6 +606,7 @@
   },
   {
     "author": "Giacomo Leopardi",
+    "available": true,
     "country": "Italy",
     "imageLink": "images/poems-giacomo-leopardi.jpg",
     "language": "Italian",
@@ -561,6 +617,7 @@
   },
   {
     "author": "Doris Lessing",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/the-golden-notebook.jpg",
     "language": "English",
@@ -571,6 +628,7 @@
   },
   {
     "author": "Astrid Lindgren",
+    "available": true,
     "country": "Sweden",
     "imageLink": "images/pippi-longstocking.jpg",
     "language": "Swedish",
@@ -581,6 +639,7 @@
   },
   {
     "author": "Lu Xun",
+    "available": true,
     "country": "China",
     "imageLink": "images/diary-of-a-madman.jpg",
     "language": "Chinese",
@@ -591,6 +650,7 @@
   },
   {
     "author": "Naguib Mahfouz",
+    "available": true,
     "country": "Egypt",
     "imageLink": "images/children-of-gebelawi.jpg",
     "language": "Arabic",
@@ -601,6 +661,7 @@
   },
   {
     "author": "Thomas Mann",
+    "available": true,
     "country": "Germany",
     "imageLink": "images/buddenbrooks.jpg",
     "language": "German",
@@ -611,6 +672,7 @@
   },
   {
     "author": "Thomas Mann",
+    "available": true,
     "country": "Germany",
     "imageLink": "images/the-magic-mountain.jpg",
     "language": "German",
@@ -621,6 +683,7 @@
   },
   {
     "author": "Herman Melville",
+    "available": true,
     "country": "United States",
     "imageLink": "images/moby-dick.jpg",
     "language": "English",
@@ -631,6 +694,7 @@
   },
   {
     "author": "Michel de Montaigne",
+    "available": true,
     "country": "France",
     "imageLink": "images/essais.jpg",
     "language": "French",
@@ -641,6 +705,7 @@
   },
   {
     "author": "Elsa Morante",
+    "available": true,
     "country": "Italy",
     "imageLink": "images/history.jpg",
     "language": "Italian",
@@ -651,6 +716,7 @@
   },
   {
     "author": "Toni Morrison",
+    "available": true,
     "country": "United States",
     "imageLink": "images/beloved.jpg",
     "language": "English",
@@ -661,6 +727,7 @@
   },
   {
     "author": "Murasaki Shikibu",
+    "available": true,
     "country": "Japan",
     "imageLink": "images/the-tale-of-genji.jpg",
     "language": "Japanese",
@@ -671,6 +738,7 @@
   },
   {
     "author": "Robert Musil",
+    "available": true,
     "country": "Austria",
     "imageLink": "images/the-man-without-qualities.jpg",
     "language": "German",
@@ -681,6 +749,7 @@
   },
   {
     "author": "Vladimir Nabokov",
+    "available": true,
     "country": "Russia/United States",
     "imageLink": "images/lolita.jpg",
     "language": "English",
@@ -691,6 +760,7 @@
   },
   {
     "author": "George Orwell",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/nineteen-eighty-four.jpg",
     "language": "English",
@@ -701,6 +771,7 @@
   },
   {
     "author": "Ovid",
+    "available": true,
     "country": "Roman Empire",
     "imageLink": "images/the-metamorphoses-of-ovid.jpg",
     "language": "Classical Latin",
@@ -711,6 +782,7 @@
   },
   {
     "author": "Fernando Pessoa",
+    "available": true,
     "country": "Portugal",
     "imageLink": "images/the-book-of-disquiet.jpg",
     "language": "Portuguese",
@@ -721,6 +793,7 @@
   },
   {
     "author": "Edgar Allan Poe",
+    "available": true,
     "country": "United States",
     "imageLink": "images/tales-and-poems-of-edgar-allan-poe.jpg",
     "language": "English",
@@ -731,6 +804,7 @@
   },
   {
     "author": "Marcel Proust",
+    "available": true,
     "country": "France",
     "imageLink": "images/a-la-recherche-du-temps-perdu.jpg",
     "language": "French",
@@ -741,6 +815,7 @@
   },
   {
     "author": "Fran\u00e7ois Rabelais",
+    "available": true,
     "country": "France",
     "imageLink": "images/gargantua-and-pantagruel.jpg",
     "language": "French",
@@ -751,6 +826,7 @@
   },
   {
     "author": "Juan Rulfo",
+    "available": true,
     "country": "Mexico",
     "imageLink": "images/pedro-paramo.jpg",
     "language": "Spanish",
@@ -761,6 +837,7 @@
   },
   {
     "author": "Rumi",
+    "available": true,
     "country": "Sultanate of Rum",
     "imageLink": "images/the-masnavi.jpg",
     "language": "Persian",
@@ -771,6 +848,7 @@
   },
   {
     "author": "Salman Rushdie",
+    "available": true,
     "country": "United Kingdom, India",
     "imageLink": "images/midnights-children.jpg",
     "language": "English",
@@ -781,6 +859,7 @@
   },
   {
     "author": "Saadi",
+    "available": true,
     "country": "Persia, Persian Empire",
     "imageLink": "images/bostan.jpg",
     "language": "Persian",
@@ -791,6 +870,7 @@
   },
   {
     "author": "Tayeb Salih",
+    "available": true,
     "country": "Sudan",
     "imageLink": "images/season-of-migration-to-the-north.jpg",
     "language": "Arabic",
@@ -801,6 +881,7 @@
   },
   {
     "author": "Jos\u00e9 Saramago",
+    "available": true,
     "country": "Portugal",
     "imageLink": "images/blindness.jpg",
     "language": "Portuguese",
@@ -811,6 +892,7 @@
   },
   {
     "author": "William Shakespeare",
+    "available": true,
     "country": "England",
     "imageLink": "images/hamlet.jpg",
     "language": "English",
@@ -821,6 +903,7 @@
   },
   {
     "author": "William Shakespeare",
+    "available": true,
     "country": "England",
     "imageLink": "images/king-lear.jpg",
     "language": "English",
@@ -841,6 +924,7 @@
   },
   {
     "author": "Sophocles",
+    "available": true,
     "country": "Greece",
     "imageLink": "images/oedipus-the-king.jpg",
     "language": "Greek",
@@ -861,6 +945,7 @@
   },
   {
     "author": "Laurence Sterne",
+    "available": true,
     "country": "England",
     "imageLink": "images/the-life-and-opinions-of-tristram-shandy.jpg",
     "language": "English",
@@ -871,6 +956,7 @@
   },
   {
     "author": "Italo Svevo",
+    "available": true,
     "country": "Italy",
     "imageLink": "images/confessions-of-zeno.jpg",
     "language": "Italian",
@@ -881,6 +967,7 @@
   },
   {
     "author": "Jonathan Swift",
+    "available": true,
     "country": "Ireland",
     "imageLink": "images/gullivers-travels.jpg",
     "language": "English",
@@ -891,6 +978,7 @@
   },
   {
     "author": "Leo Tolstoy",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/war-and-peace.jpg",
     "language": "Russian",
@@ -901,6 +989,7 @@
   },
   {
     "author": "Leo Tolstoy",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/anna-karenina.jpg",
     "language": "Russian",
@@ -911,6 +1000,7 @@
   },
   {
     "author": "Leo Tolstoy",
+    "available": true,
     "country": "Russia",
     "imageLink": "images/the-death-of-ivan-ilyich.jpg",
     "language": "Russian",
@@ -921,6 +1011,7 @@
   },
   {
     "author": "Mark Twain",
+    "available": true,
     "country": "United States",
     "imageLink": "images/the-adventures-of-huckleberry-finn.jpg",
     "language": "English",
@@ -931,6 +1022,7 @@
   },
   {
     "author": "Valmiki",
+    "available": true,
     "country": "India",
     "imageLink": "images/ramayana.jpg",
     "language": "Sanskrit",
@@ -941,6 +1033,7 @@
   },
   {
     "author": "Virgil",
+    "available": true,
     "country": "Roman Empire",
     "imageLink": "images/the-aeneid.jpg",
     "language": "Classical Latin",
@@ -951,6 +1044,7 @@
   },
   {
     "author": "Vyasa",
+    "available": true,
     "country": "India",
     "imageLink": "images/the-mahab-harata.jpg",
     "language": "Sanskrit",
@@ -961,6 +1055,7 @@
   },
   {
     "author": "Walt Whitman",
+    "available": true,
     "country": "United States",
     "imageLink": "images/leaves-of-grass.jpg",
     "language": "English",
@@ -971,6 +1066,7 @@
   },
   {
     "author": "Virginia Woolf",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/mrs-dalloway.jpg",
     "language": "English",
@@ -981,6 +1077,7 @@
   },
   {
     "author": "Virginia Woolf",
+    "available": true,
     "country": "United Kingdom",
     "imageLink": "images/to-the-lighthouse.jpg",
     "language": "English",
@@ -991,6 +1088,7 @@
   },
   {
     "author": "Marguerite Yourcenar",
+    "available": true,
     "country": "France/Belgium",
     "imageLink": "images/memoirs-of-hadrian.jpg",
     "language": "French",

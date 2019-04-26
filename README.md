@@ -1,5 +1,6 @@
 # Assignment Analyse 3
 This is an assignment for Analysis 3 on The Rotterdam University of Applied sciences
+Assignment by: Bilal Azrioual and Bram Gussekloo.
 
 **Read the whole file carefully, Please!!**
 
@@ -20,4 +21,3 @@ commands into the console. Here are the commands that you are able to use (Every
 To use another Customer file in the Public Library System, you have to add it to the same folder as the PLS.py file and
 call it customers.csv, than use the "add_new_customer_file" command. The books must be stored in the books.json file and it must exist in the folder where also PLS.py is saved. The file
 customers.json also has to exist in that folder.
-

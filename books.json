@@ -914,6 +914,7 @@
   },
   {
     "author": "William Shakespeare",
+    "available": true,
     "country": "England",
     "imageLink": "images/othello.jpg",
     "language": "English",
@@ -935,6 +936,7 @@
   },
   {
     "author": "Stendhal",
+    "available": true,
     "country": "France",
     "imageLink": "images/le-rouge-et-le-noir.jpg",
     "language": "French",
